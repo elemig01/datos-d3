@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {"id": "Jaime", "group": 1},
+    {"id": "Elena", "group": 1},
+    {"id": "David", "group": 1},
+    {"id": "Cristina", "group": 1},
+    {"id": "Matemáticas", "group": 2},
+    {"id": "Lengua", "group": 2},
+    {"id": "Química", "group": 3},
+    {"id": "Física", "group": 3},
+    {"id": "Arte", "group": 4},
+    {"id": "Dibujo Técnico", "group": 5},
+    {"id": "Biología", "group": 3}
+  ],
+  "links": [
+    {"source": "Jaime", "target": "Matemáticas", "value": 1},
+    {"source": "Jaime", "target": "Química", "value": 1},
+    {"source": "Jaime", "target": "Biología", "value": 1},
+    {"source": "Elena", "target": "Matemáticas", "value": 1},
+    {"source": "Elena", "target": "Dibujo Técnico", "value": 1},
+    {"source": "Elena", "target": "Arte", "value": 1},
+    {"source": "David", "target": "Lengua", "value": 1},
+    {"source": "David", "target": "Dibujo Técnico", "value": 1},
+    {"source": "David", "target": "Biología", "value": 1},
+    {"source": "Cristina", "target": "Física", "value": 1},
+    {"source": "Cristina", "target": "Química", "value": 1},
+    {"source": "Cristina", "target": "Biología", "value": 1}
+  ]
+}
