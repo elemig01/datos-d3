@@ -1,14 +1,14 @@
 
 [
-    {"id": "Zara.com", "ventas": 44416,"ranking":1},
-    {"id": "Shein.com", "ventas": 40987,"ranking":2},
-    {"id": "Aliexpress.com", "ventas": 38657,"ranking":3},
-    {"id": "Stradivarius.com", "ventas": 35002,"ranking":4},
-    {"id": "Hacoo.com", "ventas": 33546,"ranking":5},
-    {"id": "Amazon.com", "ventas": 33217,"ranking":6},
-    {"id": "Temu.com", "ventas": 27132,"ranking":7},
-    {"id": "IKEA.com", "ventas": 26890,"ranking":8},
-    {"id": "Leroy Merlin.com", "ventas": 22543,"ranking":9},
-    {"id": "Miguel.com", "ventas": 15964,"ranking":10}
+    {"id": "Zara.com", "ventas": 4595,"ranking":1},
+    {"id": "Shein.com", "ventas": 3278,"ranking":2},
+    {"id": "Aliexpress.com", "ventas": 2674,"ranking":3},
+    {"id": "Stradivarius.com", "ventas": 1532,"ranking":4},
+    {"id": "Hacoo.com", "ventas": 1465,"ranking":5},
+    {"id": "Amazon.com", "ventas": 1278,"ranking":6},
+    {"id": "Temu.com", "ventas": 1054,"ranking":7},
+    {"id": "IKEA.com", "ventas": 978,"ranking":8},
+    {"id": "Leroy Merlin.com", "ventas": 754,"ranking":9},
+    {"id": "Miguel.com", "ventas": 446,"ranking":10}
 ]
 
