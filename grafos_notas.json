@@ -13,17 +13,17 @@
     {"id": "Biología", "group": 3}
   ],
   "links": [
-    {"source": "Jaime", "target": "Matemáticas", "value": 1},
-    {"source": "Jaime", "target": "Química", "value": 1},
-    {"source": "Jaime", "target": "Biología", "value": 1},
-    {"source": "Elena", "target": "Matemáticas", "value": 1},
-    {"source": "Elena", "target": "Dibujo Técnico", "value": 1},
-    {"source": "Elena", "target": "Arte", "value": 1},
-    {"source": "David", "target": "Lengua", "value": 1},
-    {"source": "David", "target": "Dibujo Técnico", "value": 1},
-    {"source": "David", "target": "Biología", "value": 1},
-    {"source": "Cristina", "target": "Física", "value": 1},
-    {"source": "Cristina", "target": "Química", "value": 1},
-    {"source": "Cristina", "target": "Biología", "value": 1}
+    {"source": "Jaime", "target": "Matemáticas", "value": 20},
+    {"source": "Jaime", "target": "Química", "value": 20},
+    {"source": "Jaime", "target": "Biología", "value": 20},
+    {"source": "Elena", "target": "Matemáticas", "value": 20},
+    {"source": "Elena", "target": "Dibujo Técnico", "value": 20},
+    {"source": "Elena", "target": "Arte", "value": 20},
+    {"source": "David", "target": "Lengua", "value": 20},
+    {"source": "David", "target": "Dibujo Técnico", "value": 20},
+    {"source": "David", "target": "Biología", "value": 20},
+    {"source": "Cristina", "target": "Física", "value": 20},
+    {"source": "Cristina", "target": "Química", "value": 20},
+    {"source": "Cristina", "target": "Biología", "value": 20}
   ]
 }
