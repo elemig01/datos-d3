@@ -1,0 +1,47 @@
+[
+	{
+		"alumno":"Mauricio Montoya",
+		"nota":10.0,
+		"ranking":1
+	},
+	{
+		"alumno":"Fabiana",
+		"nota":9.8,
+		"ranking":40
+	},
+	{
+		"alumno":"Katherine",
+		"nota":9.5,
+		"ranking":90
+	},
+	{
+		"alumno":"Alfredo",
+		"nota":8.1,
+		"ranking":140
+	},
+	{
+		"alumno":"Andrea",
+		"nota":7.5,
+		"ranking":180
+	},
+	{
+		"alumno":"Issac",
+		"nota":6.2,
+		"ranking":200
+	},
+	{
+		"alumno":"Martha",
+		"nota":5.5,
+		"ranking":325
+	},
+	{
+		"alumno":"Carlos",
+		"nota":4.0,
+		"ranking":440
+	},
+	{
+		"alumno":"Liz",
+		"nota":2.1,
+		"ranking":480
+	}
+]
